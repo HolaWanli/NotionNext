@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: ture,
-  HOME_BANNER_GREETINGS: ['Hey，', 'Hey,我是万里', 'Hey，我是一个自由职业者', '欢迎来到俺的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hey，', 'Hey,我是万里', 'Hey，我在这里分享自己的视野', '🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
 
